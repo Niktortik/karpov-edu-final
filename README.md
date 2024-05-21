@@ -1,6 +1,6 @@
-## karpov-edu-final
-This repository contains the final educational project completed by Nikita. It includes analysis of an A/B test, using SQL queries for product metrics like ARPU, ARPAU, and CR, with Python function for data insertion and visualization.
+## Karpov-edu-final
 
+This repository contains the final educational project completed by Nikita. It includes analysis of an A/B test, using SQL queries for product metrics like ARPU, ARPAU, and CR, with Python function for data insertion and visualization.
 Explore the project files to understand the structure and contents.
 
 ## Project Structure
@@ -19,8 +19,8 @@ To run the Jupyter Notebooks or Python scripts, you need to have Python installe
 
 ## Feedback
 
-If you have any feedback or questions about this project, feel free to t.me/nikitaml or github
+If you have any feedback or questions about this project, feel free to contact me via [Telegram](https://t.me/nikitaml) or [GitHub](https://github.com/Niktortik).
 
 ## License
 
-This project is licensed under the `[MIT License]`.
+This project is licensed under the [MIT License](LICENSE).
